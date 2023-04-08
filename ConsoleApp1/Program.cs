@@ -7,7 +7,7 @@ namespace ConsoleApp1
         {
             string name="Divya";
             Console.WriteLine("Hello " + name + "!");
-            string[] tasks = {"Fibonacci","Prime number", "Palindrome number", "Factorial"};
+            string[] tasks = {"Prime number", "New Task", "Palindrome", "Factorial"};
             int index = 1;
             if (tasks.Length== 0)
             {

@@ -14,10 +14,13 @@ namespace ConsoleApp1
             switch (i)
             {
                 case 1:
-                    Fibonacci();
+                    PrimeNumber();
                     break;
                 case 2:
-                    PrimeNumber();
+                    NewTask();
+                    break;
+                case 3:
+                    PalindromeNumber();
                     break;
                 default:
                     Console.WriteLine("Enter a valid number");
@@ -62,10 +65,41 @@ namespace ConsoleApp1
                 Console.WriteLine("Enter a valid number.");
             }
         }
-
-        public static void Fibonacci()
+ 
+        public static void NewTask()
         {
-
+            string greeting = "Hello";
+            for(int i = 0;i<=greeting.Length;i++)
+            {
+                string newGreeting = "";
+                for(int j=i;j<=greeting.Length-1;j++)
+                {
+                    newGreeting += greeting.Substring(j,1);
+                    Console.Write(newGreeting + ", ");
+                }
+                Console.WriteLine();
+            }
+        }
+        public static void PalindromeNumber()
+        {
+            Console.WriteLine("Enter a string");
+            var palindrome = Console.ReadLine();
+            string newString="";
+            if (palindrome!=null)
+            {
+                int length = palindrome.Length;
+                for (int i = length - 1; i <= 0; i--)
+                {
+                    newString += palindrome[i];
+                    Console.Write(palindrome[i]);
+                  /*  if (newString == palindrome)
+                    {
+                        Console.WriteLine("Palindrome");
+                        break;
+                    }*/
+                }
+            }
+           
         }
     }
 }
