@@ -1,0 +1,15 @@
+C:\Users\DivyaUdayan\Desktop\Files\13-05-23\13-05-23\bin\Debug\net6.0\13-05-23.exe
+C:\Users\DivyaUdayan\Desktop\Files\13-05-23\13-05-23\bin\Debug\net6.0\13-05-23.deps.json
+C:\Users\DivyaUdayan\Desktop\Files\13-05-23\13-05-23\bin\Debug\net6.0\13-05-23.runtimeconfig.json
+C:\Users\DivyaUdayan\Desktop\Files\13-05-23\13-05-23\bin\Debug\net6.0\13-05-23.dll
+C:\Users\DivyaUdayan\Desktop\Files\13-05-23\13-05-23\bin\Debug\net6.0\13-05-23.pdb
+C:\Users\DivyaUdayan\Desktop\Files\13-05-23\13-05-23\obj\Debug\net6.0\13-05-23.csproj.AssemblyReference.cache
+C:\Users\DivyaUdayan\Desktop\Files\13-05-23\13-05-23\obj\Debug\net6.0\13-05-23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DivyaUdayan\Desktop\Files\13-05-23\13-05-23\obj\Debug\net6.0\13-05-23.AssemblyInfoInputs.cache
+C:\Users\DivyaUdayan\Desktop\Files\13-05-23\13-05-23\obj\Debug\net6.0\13-05-23.AssemblyInfo.cs
+C:\Users\DivyaUdayan\Desktop\Files\13-05-23\13-05-23\obj\Debug\net6.0\13-05-23.csproj.CoreCompileInputs.cache
+C:\Users\DivyaUdayan\Desktop\Files\13-05-23\13-05-23\obj\Debug\net6.0\13-05-23.dll
+C:\Users\DivyaUdayan\Desktop\Files\13-05-23\13-05-23\obj\Debug\net6.0\refint\13-05-23.dll
+C:\Users\DivyaUdayan\Desktop\Files\13-05-23\13-05-23\obj\Debug\net6.0\13-05-23.pdb
+C:\Users\DivyaUdayan\Desktop\Files\13-05-23\13-05-23\obj\Debug\net6.0\13-05-23.genruntimeconfig.cache
+C:\Users\DivyaUdayan\Desktop\Files\13-05-23\13-05-23\obj\Debug\net6.0\ref\13-05-23.dll
